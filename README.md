@@ -1,11 +1,17 @@
 # Numerical-Analysis
 
 ## Output of Euler's Method
-Euler's Method value is: 0.13977890997783643
+for h=0.025
 <br>
-Exact Solution value is: 0.143793738438901
+    Euler's Value is: 3.370127676779946
+    <br>
+for h=0.05
 <br>
-The error between these values is 0.0040148284610645735
+    Euler's Value is: 3.3065954102888404
+    <br>
+for h=0.1
+<br>
+    Euler's Value is: 3.1874849202
 <br>
 
-![Euler's Method](https://github.com/user-attachments/assets/dcd9855c-2980-46b8-a52d-80e1ba02a8dd)
+![Euler's Method](https://github.com/user-attachments/assets/39a402bd-4e60-418d-9c44-538e1475aeb2)
